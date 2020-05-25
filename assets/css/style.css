@@ -76,8 +76,7 @@ article {
     max-height: 200px;
 }
 
-/*Merge together all three classes to reduce the amount of duplicate below)
- */ 
+/*Merged together all three classes to reduce the amount of duplicate below) */ 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
